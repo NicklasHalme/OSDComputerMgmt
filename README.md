@@ -15,6 +15,7 @@ For SCCM functions:
 
 For MDT functions:  
   Rights to add and remove data from MDT database.
+  
   MDTDM.psm1 Module from Michael Niehaus, https://techcommunity.microsoft.com/t5/windows-blog-archive/manipulating-the-microsoft-deployment-toolkit-database-using/ba-p/706876
    
 The CSV files are examples how to use them. In Remove-Computers.csv you define 1 to remove the computer from the DB and 0 not to.
